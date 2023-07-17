@@ -1,0 +1,133 @@
+{
+  "accessors": [
+    {
+      "name": "clouds_01_Plane-Mesh_0_indices",
+      "componentType": 5123,
+      "count": 2448,
+      "min": [
+        0
+      ],
+      "max": [
+        1643
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "name": "clouds_01_Plane-Mesh_0_positions",
+      "componentType": 5126,
+      "count": 1644,
+      "min": [
+        -262.5270762925737,
+        -0.25889281601110964,
+        -90.76187853866749
+      ],
+      "max": [
+        267.9340587144487,
+        200.12027677668553,
+        101.3328809416696
+      ],
+      "type": "VEC3"
+    },
+    {
+      "name": "clouds_01_Plane-Mesh_0_normals",
+      "componentType": 5126,
+      "count": 1644,
+      "min": [
+        -0.9724594733294318,
+        -1.007823743539698,
+        -1.0055557868059943
+      ],
+      "max": [
+        0.9756526680553661,
+        0.9715833720038918,
+        1.0051463028963874
+      ],
+      "type": "VEC3"
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Cloud",
+      "byteLength": 3008,
+      "uri": "data:application/octet-stream;base64,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"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 3003
+    }
+  ],
+  "materials": [
+    {
+      "name": "FFFFFF",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.903921569
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "clouds_01_Plane-Mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "clouds_01_Plane",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}
